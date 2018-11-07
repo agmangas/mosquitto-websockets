@@ -4,4 +4,3 @@ Extra layer over the eclipse-mosquitto Docker image with the following configura
 
 * WebSockets listener enabled on port 9001.
 * Stdout logging for all log levels.
-* Persistence enabled on `/mosquitto/data/`.
